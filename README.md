@@ -1,1 +1,1 @@
-﻿# hearthTrailAnimation
+﻿# autoTextEffectAnimation
